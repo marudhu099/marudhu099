@@ -35,11 +35,10 @@ Python • Django • Django REST Framework • HTMX • Alpine.js • React •
 ---
 
 ## Featured Projects
-(Replace placeholders with repo links so I can show badges, README snippets, and screenshots/GIFs.)
 
-- BunnyDesk — Core product contributions: rich editor features, feedback collection system, draft review workflow, and stability fixes. (work project)
-- Travel Log — Personal app for tracking trips, journals, and trip analytics. (repo: add link)
-- Focuzed — Productivity / focus-oriented app. (repo: add link)
+- BunnyDesk — Core product contributions: rich editor features, feedback collection system, draft review workflow, & stability fixes. (https://app.bunnydesk.ai/)
+- Travel Log — Personal app for tracking trips, journals, and trip analytics. (https://github.com/AngelMarudhu/personal-travel-log)
+- Focuzed — Productivity / focus-oriented app.
 
 ---
 
