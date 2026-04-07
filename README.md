@@ -105,18 +105,8 @@ I actively contribute to projects and submit PRs. I can add a summary section (t
 
 ## Interests & Fun Stuff
 - Competitive programming: solving LeetCode problems  
+- Exploring LLM tooling, LangChain integrations, and practical AI applications
 - Cycling — 5000+ km travelled so far  
 - Playing carrom  
-- Exploring LLM tooling, LangChain integrations, and practical AI applications
 
 ---
-
-## Next steps I can do for you
-- Replace project placeholders with direct repo links, badges, screenshots/GIFs, and short demos.
-- Pull your public GitHub activity (merged PRs, recent commits, top repos) and add a Contributions section — give me permission and I'll fetch it.
-- Add badges (Pull Shark, YOLO) — tell me whether these are services, repo names, or custom badges and I’ll include them.
-- Create a week-by-week AI study plan and suggested projects aligned to that roadmap.
-
----
-
-Thanks — this README is ready to be added to your profile.
