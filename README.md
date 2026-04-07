@@ -21,17 +21,17 @@ I’m currently upskilling as an AI Engineer — focusing on ML/DL fundamentals,
 
 ---
 
-## Tech Stack
-Python • Django • Django REST Framework • HTMX • Alpine.js • React • Node.js • JavaScript / TypeScript • Tailwind CSS • TipTap • PostgreSQL • LangChain • OpenAI / Gemini APIs
-
-## Top Skills
-- JavaScript / TypeScript
-- Python
-- Node.js / Express
-- Django
-- MongoDB / PostgreSQL
-- Tailwind CSS
-
+<!-- SKILLS_BADGES_START -->
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/topics/javascript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/topics/typescript)
+[![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/topics/nodejs)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/topics/express)
+[![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/topics/django)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/topics/mongodb)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/topics/postgresql)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/topics/tailwindcss)
+<!-- SKILLS_BADGES_END -->
 ---
 
 ## Featured Projects
